@@ -45,7 +45,7 @@ b=int(input())
 c=int(input())
 print(ew(a,b,c))
 
-#10.49
+#10.49 erm
 
 l=[123,234,345,45]
 q=0
