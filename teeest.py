@@ -1,5 +1,5 @@
 #10.43
-n=int(input('не 1 введите натуральное число:'))
+n=int(input('не 1 введите натуральное число: test test test'))
 def summ(n):
     return n%10 +summ(n//10) if n>9 else n
 print(summ(n))
